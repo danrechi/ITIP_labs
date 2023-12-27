@@ -1,0 +1,12 @@
+CustomDivisionException: Деление на ноль запрещено!
+	at Div.divideNumbers(Div.java:19)
+	at Div.main(Div.java:8)
+CustomDivisionException: Деление на ноль запрещено!
+	at Div.divideNumbers(Div.java:19)
+	at Div.main(Div.java:8)
+CustomDivisionException: Деление на ноль запрещено!
+	at Div.divideNumbers(Div.java:19)
+	at Div.main(Div.java:8)
+CustomDivisionException: Деление на ноль запрещено!
+	at Div.divideNumbers(Div.java:19)
+	at Div.main(Div.java:8)
